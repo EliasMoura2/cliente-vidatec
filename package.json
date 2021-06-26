@@ -1,0 +1,11 @@
+{
+  "name": "client-movies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elias Moura <d.eliasmoura2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
